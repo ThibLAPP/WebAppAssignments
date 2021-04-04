@@ -1,1 +1,3 @@
 Do not forget to use the command `npm install` in each directory (at the location of the `server.js`).
+
+It seems like chrome does not accept the code written in assignment1...
