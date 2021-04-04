@@ -90,7 +90,6 @@ window.addEventListener('mouseup', e => {
 //FIGURE
 
 function draw(){
-    console.log("figure dessinee");
     let forme = document.getElementById('form').value
     if(forme == 'triangle'){
         drawTriangle()
@@ -218,7 +217,6 @@ function drawCircleAtCursor(x,y, pencil_color = document.getElementById('pencil_
     c.fillStyle = pencil_color
     c.fill()
 }
-
 
 function print_canvas(){
     var canvas = document.getElementById('canvas');
