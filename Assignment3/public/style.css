@@ -1,0 +1,17 @@
+img {
+	height: 500px;
+	width: 333px;
+}
+
+#area {
+	text-align: center;
+}
+
+#start_zone {
+	text-align: center;
+}
+
+#play_btn {
+	height: 50px;
+	width: 130px;
+}
